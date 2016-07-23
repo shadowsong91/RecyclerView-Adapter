@@ -6,5 +6,12 @@ This is an attempt to make RecyclerView more easier to use. The custom Adapter i
 3. Set ListWrapper to your adapter.
 4. ListWrapper.load().
 
+# Screen shot
+Data not prepared:  
+![image](https://github.com/shadowsong91/RecyclerView-Adapter/raw/master/screenshot/loading.png)  
+Loading failed:  
+![image](https://github.com/shadowsong91/RecyclerView-Adapter/raw/master/screenshot/error.png)  
+Loading more failed:  
+![image](https://github.com/shadowsong91/RecyclerView-Adapter/raw/master/screenshot/loading-more-error.png)
 # Example
 See MainActivity.java
